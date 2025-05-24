@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there 👋 I'm Ansh Verma
 
-<!--
-**ansh07verma/ansh07verma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about technology, coding, and building solutions that make a difference.
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🚀 Enthusiastic developer and lifelong learner
+- 💡 Interested in VLSI, neural networks, deep learning, and AI/ML
+- 🛠️ Skilled in Python and Verilog
+- 🤝 Looking forward to collaborating on interesting projects and contributing to the developer community
+
+## 🌱 Currently Learning
+
+- Advanced concepts in VLSI design
+- Modern neural network architectures and deep learning frameworks
+- Applied machine learning and AI techniques
+
+## 📫 How to reach me
+
+- Email: 07anshverma@gmail.com
